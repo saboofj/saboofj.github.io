@@ -4,20 +4,20 @@
 body { position: relative; background: #FFF; margin: 0; font-family: Open Sans, sans-serif; font-size: 13px; line-height: 22px; color: #c99830;}
 @font-face {
 	font-family: 'Conv_PRISTINA';
-	src: url('http://saboofj.com/fonts/PRISTINA.eot');
-	src: local('☺'), url('http://saboofj.com/fonts/PRISTINA.woff') format('woff'), url('http://saboofj.com/fonts/PRISTINA.ttf') format('truetype'), url('http://saboofj.com/fonts/PRISTINA.svg') format('svg');
+	src: url('/fonts/PRISTINA.eot');
+	src: local('☺'), url('/fonts/PRISTINA.woff') format('woff'), url('/fonts/PRISTINA.ttf') format('truetype'), url('/fonts/PRISTINA.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
     font-family: 'florencescript_dbregular';
-    src: url('http://saboofj.com/fonts/florencescript_regular_db-webfont.eot');
-    src: url('http://saboofj.com/fonts/florencescript_regular_db-webfont.eot?') format('embedded-opentype'),
-         url('http://saboofj.com/fonts/florencescript_regular_db-webfont.woff2') format('woff2'),
-         url('http://saboofj.com/fonts/florencescript_regular_db-webfont.woff') format('woff'),
-         url('http://saboofj.com/fonts/florencescript_regular_db-webfont.ttf') format('truetype'),
-         url('http://saboofj.com/fonts/florencescript_regular_db-webfont.svg') format('svg');
+    src: url('/fonts/florencescript_regular_db-webfont.eot');
+    src: url('/fonts/florencescript_regular_db-webfont.eot?') format('embedded-opentype'),
+         url('/fonts/florencescript_regular_db-webfont.woff2') format('woff2'),
+         url('/fonts/florencescript_regular_db-webfont.woff') format('woff'),
+         url('/fonts/florencescript_regular_db-webfont.ttf') format('truetype'),
+         url('/fonts/florencescript_regular_db-webfont.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }

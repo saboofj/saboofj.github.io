@@ -12,7 +12,7 @@ website:   	http://www.themepunch.com
 -----------------------------------------------------------------------------*/
 
 
-@font-face { font-family: 'revicons'; src: url('http://saboofj.com/fonts/revicons.eot'); src: url('http://saboofj.com/fonts/revicons.eot') format('embedded-opentype'), url('http://saboofj.com/fonts/revicons.woff') format('woff'), url('http://saboofj.com/fonts/revicons.ttf') format('truetype'), url('http://saboofj.com/fonts/revicons.svg') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'revicons'; src: url('/fonts/revicons.eot'); src: url('/fonts/revicons.eot') format('embedded-opentype'), url('/fonts/revicons.woff') format('woff'), url('/fonts/revicons.ttf') format('truetype'), url('/fonts/revicons.svg') format('svg'); font-weight: normal; font-style: normal; }
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
 /*
