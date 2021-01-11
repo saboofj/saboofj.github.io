@@ -1,6 +1,6 @@
 /*!
  * jQzoom Evolution Library v2.3  - Javascript Image magnifier
- * http://www.mind-projects.it
+ * https://www.mind-projects.it
  *
  * Copyright 2011, Engineer Marco Renzi
  * Licensed under the BSD license.

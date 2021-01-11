@@ -67,7 +67,7 @@ filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1); -web
 .sh-arrow:before, .tparrows:after, .zoom-next:after, .zoom-prev:after { content: "\e008"; }
 /*------------------------------------------------------------------
 Reset
-http://meyerweb.com/eric/tools/css/reset/ 
+https://meyerweb.com/eric/tools/css/reset/ 
 v2.0 | 20110126
 License: none (public domain)
 */
